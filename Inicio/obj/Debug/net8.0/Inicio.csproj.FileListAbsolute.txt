@@ -1,0 +1,14 @@
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\bin\Debug\net8.0\Inicio.exe
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\bin\Debug\net8.0\Inicio.deps.json
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\bin\Debug\net8.0\Inicio.runtimeconfig.json
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\bin\Debug\net8.0\Inicio.dll
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\bin\Debug\net8.0\Inicio.pdb
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\Inicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\Inicio.AssemblyInfoInputs.cache
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\Inicio.AssemblyInfo.cs
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\Inicio.dll
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\refint\Inicio.dll
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\Inicio.pdb
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\Inicio.genruntimeconfig.cache
+C:\Users\aneli\Documents\Cursos\Back-end\C#\EstudosCSharp\Inicio\obj\Debug\net8.0\ref\Inicio.dll
